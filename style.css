@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+
+#img-1 {   
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 544px;
+    top: 90px;
+    box-sizing: border-box;
+    margin: 40px;
+    border-radius: 200px;
+}
+
+ #link-1 {
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 516px;
+    top: 386px;
+    border-radius: 4px;
+    border: 2px solid purple;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: purple;
+}
+
+#link-2 {
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 516px;
+    top: 451px;
+    border-radius: 4px;
+    border: 2px solid purple;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: purple;
+}
+
+#link-3 {
+    position: absolute;
+    width: 326px;
+    height: 49px;
+    left: 516px;
+    top: 516px;
+    border-radius: 4px;
+    border: 2px solid purple;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: purple;
+}
+
+#insta{
+   position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 632px;
+    top: 329px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: purple;
+    margin: 4px;
+}
+ 
+#imagem {
+    position: absolute;
+    width: 236px;
+    height: 24px;
+    left: 640px;
+    top: 585px;
+}
