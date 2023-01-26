@@ -46,6 +46,15 @@ div {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     color: purple;
+
+    cursor: pointer;
+
+    transition: all .3s;
+}
+
+.link:hover {
+    background-color: purple;
+    color: white;
 }
 
 #insta{
